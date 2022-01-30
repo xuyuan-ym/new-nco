@@ -1,0 +1,3 @@
+difdim("time",4);
+diff[$lat,$lon]=0.F;
+
